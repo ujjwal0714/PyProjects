@@ -1,0 +1,269 @@
+01/05/2021
+1,games,2018,4,0,m,kappa,0
+
+2,digit,2015,9,0,m,9.9 media,0
+
+3,how it works,0,0,0,0,0,149
+
+4,digit,2015,12,0,m,9.9 media,0
+
+5,digit,2014,2,0,m,9.9 media,0
+
+6,digit,2014,3,0,m,9.9 media,0
+
+7,digit,2014,4,0,m,9.9 media,0
+
+8,digit,2014,5,0,m,9.9 media,0
+
+9,pc magazine,2019,10,0,m,ziff davis,0
+
+10,wired,2021,2,0,m,conde nast,0
+
+11,digit,2016,3,0,m,9.9 media,0
+
+12,new scientist,2020,12,5,w,0,3311
+
+13,physics spectrum,2017,1,0,m,arihant,0
+
+14,physics for you,2015,1,0,m,arihant,0
+
+15,chemistry today,2015,1,0,m,mtg,0
+
+16,mathematics today,2015,1,0,m,mtg,0
+
+17,chemistry today,2016,1,0,m,mtg,0
+
+18,mathematics today,2016,1,0,m,mtg,0
+
+19,mathematics spectrum,2017,1,0,m,arihant,0
+
+20,mathematics today,2017,1,0,m,mtg,0
+
+21,chemistry spectrum,2017,1,0,m,arihant,0
+
+22,physics for you,2015,10,0,m,mtg,0
+
+23,physics for you,2016,10,0,m,mtg,0
+
+24,chemistry today,2015,10,0,m,mtg,0
+
+25,mathematics today,2015,10,0,m,mtg,0
+
+26,mathematics spectrum,2016,10,0,m,arihant,0
+
+27,chemistry today,2016,10,0,m,mtg,0
+
+28,mathematics today,2016,10,0,m,mtg,0
+
+29,mathematics today,2017,10,0,m,mtg,0
+
+30,physics for you,2017,10,0,m,mtg,0
+
+31,physics spectrum,2016,11,0,m,arihant,0
+
+32,physics for you,2015,11,0,m,mtg,0
+
+33,physics for you,2016,11,0,m,mtg,0
+
+34,chemistry today,2015,11,0,m,mtg,0
+
+35,mathematics today,2015,11,0,m,mtg,0
+
+36,mathematics spectrum,2016,11,0,m,arihant,0
+
+37,chemistry today,2016,11,0,m,mtg,0
+
+38,mathematics today,2016,11,0,m,mtg,0
+
+39,mathematics today,2017,11,0,m,mtg,0
+
+40,physics for you,2017,11,0,m,mtg,0
+
+41,chemistry today,2016,12,0,m,mtg,0
+
+42,mathematics today,2016,12,0,m,mtg,0
+
+43,chemistry spectrum,2016,12,0,m,arihant,0
+
+44,physics for you,2017,12,0,m,mtg,0
+
+45,physics spectrum,2016,12,0,m,arihant,0
+
+46,physics for you,2015,12,0,m,mtg,0
+
+47,physics for you,2016,12,0,m,mtg,0
+
+48,chemistry today,2015,12,0,m,mtg,0
+
+49,mathematics today,2015,12,0,m,mtg,0
+
+50,mathematics spectrum,2016,12,0,m,arihant,0
+
+51,physics spectrum,2017,2,0,m,arihant,0
+
+52,physics for you,2015,2,0,m,mtg,0
+
+53,physics for you,2016,2,0,m,mtg,0
+
+54,chemistry today,2015,2,0,m,mtg,0
+
+55,mathematics today,2015,2,0,m,mtg,0
+
+56,mathematics spectrum,2016,2,0,m,arihant,0
+
+57,chemistry today,2016,2,0,m,mtg,0
+
+58,mathematics today,2016,2,0,m,mtg,0
+
+59,mathematics spectrum,2017,2,0,m,arihant,0
+
+60,chemistry spectrum,2017,2,0,m,arihant,0
+
+61,physics for you,2017,2,0,m,mtg,0
+
+62,physics spectrum,2017,3,0,m,arihant,0
+
+63,physics for you,2015,3,0,m,mtg,0
+
+64,physics for you,2016,3,0,m,mtg,0
+
+65,chemistry today,2015,3,0,m,mtg,0
+
+66,mathematics today,2015,3,0,m,mtg,0
+
+67,mathematics spectrum,2016,3,0,m,arihant,0
+
+68,chemistry today,2016,3,0,m,mtg,0
+
+69,mathematics today,2016,3,0,m,mtg,0
+
+70,mathematics spectrum,2017,3,0,m,arihant,0
+
+71,mathematics today,2017,3,0,m,mtg,0
+
+72,chemistry spectrum,2017,3,0,m,arihant,0
+
+73,physics for you,2017,3,0,m,mtg,0
+
+74,physics for you,2015,4,0,m,mtg,0
+
+75,physics for you,2016,4,0,m,mtg,0
+
+76,chemistry today,2015,4,0,m,mtg,0
+
+77,chemistry today,2016,4,0,m,mtg,0
+
+78,mathematics today,2016,4,0,m,mtg,0
+
+79,mathematics spectrum,2017,4,0,m,arihant,0
+
+80,mathematics today,2017,4,0,m,mtg,0
+
+81,chemistry spectrum,2017,4,0,m,arihant,0
+
+82,physics for you,2017,4,0,m,mtg,0
+
+83,physics for you,2015,5,0,m,mtg,0
+
+84,physics for you,2016,5,0,m,mtg,0
+
+85,chemistry today,2015,5,0,m,mtg,0
+
+86,mathematics today,2015,5,0,m,mtg,0
+
+87,mathematics spectrum,2016,5,0,m,arihant,0
+
+88,chemistry today,2016,5,0,m,mtg,0
+
+89,mathematics today,2016,5,0,m,mtg,0
+
+90,mathematics today,2017,5,0,m,mtg,0
+
+91,chemistry today,2018,5,0,m,mtg,0
+
+92,physics for you,2017,5,0,m,mtg,0
+
+93,physics for you,2015,6,0,m,mtg,0
+
+94,physics for you,2016,6,0,m,mtg,0
+
+95,chemistry today,2015,6,0,m,mtg,0
+
+96,mathematics today,2015,6,0,m,mtg,0
+
+97,mathematics spectrum,2016,6,0,m,arihant,0
+
+98,chemistry today,2016,6,0,m,mtg,0
+
+99,mathematics today,2016,6,0,m,mtg,0
+
+100,mathematics today,2017,6,0,m,mtg,0
+
+101,chemistry today,2018,6,0,m,mtg,0
+
+102,physics for you,2017,6,0,m,mtg,0
+
+103,physics for you,2015,6,0,m,mtg,0
+
+104,physics for you,2016,6,0,m,mtg,0
+
+105,chemistry today,2015,7,0,m,mtg,0
+
+106,mathematics today,2015,7,0,m,mtg,0
+
+107,chemistry today,2016,7,0,m,mtg,0
+
+108,mathematics today,2016,7,0,m,mtg,0
+
+109,chemistry today,2017,7,0,m,mtg,0
+
+110,mathematics today,2017,7,0,m,mtg,0
+
+111,physics for you,2017,7,0,m,mtg,0
+
+112,physics spectrum,2016,8,0,m,arihant,0
+
+113,physics for you,2015,8,0,m,mtg,0
+
+114,physics for you,2016,8,0,m,mtg,0
+
+115,chemistry today,2015,8,0,m,mtg,0
+
+116,mathematics today,2015,8,0,m,mtg,0
+
+117,mathematics spectrum,2016,8,0,m,arihant,0
+
+118,chemistry today,2016,8,0,m,mtg,0
+
+119,mathematics today,2016,8,0,m,mtg,0
+
+120,chemistry spectrum,2016,8,0,m,arihant,0
+
+121,chemistry today,2017,8,0,m,mtg,0
+
+122,mathematics today,2017,8,0,m,mtg,0
+
+123,physics for you,2017,8,0,m,mtg,0
+
+124,physics for you,2015,9,0,m,mtg,0
+
+125,physics for you,2016,9,0,m,mtg,0
+
+126,chemistry today,2015,9,0,m,mtg,0
+
+127,mathematics today,2015,9,0,m,mtg,0
+
+128,chemistry today,2016,9,0,m,mtg,0
+
+129,mathematics today,2016,9,0,m,mtg,0
+
+130,chemistry today,2017,9,0,m,mtg,0
+
+131,mathematics today,2017,9,0,m,mtg,0
+
+132,physics for you,2017,9,0,m,mtg,0
+
+133,mathematics today,2015,4,0,m,mtg,0
+
+134,chemistry today,2018,1,0,m,mtg,0
+
