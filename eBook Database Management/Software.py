@@ -127,7 +127,6 @@ def search_book():
 
 # --- --- ---
 # main program
-
 def add_books():
     try:
         bks_dir=directory("book")
@@ -248,10 +247,7 @@ def functions():
     print("\
           1 | Books\n\
           2 | Magazine\n\
-          3 | \n\
-          4 | \n\
-          5 | \n\
-          6 | Exit\
+          3 | Exit\n\
           ")
     ___=int(input())
     if ___==1:
@@ -259,7 +255,14 @@ def functions():
     elif ___==2:
         mag_functions()
     
-db=sql.connect(host="localhost",user="root",password="password",database="elib",autocommit="True")
+db=sql.connect(\
+               host="localhost",\
+               user="root",\
+               password="password",\
+               database="elib",\
+               autocommit="True"\
+              )
+
 c=db.cursor()
 
 if db.is_connected():
